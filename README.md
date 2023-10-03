@@ -1,4 +1,4 @@
-# Freecodecamp Back end Development and APIs projects
+# Freecodecamp Quality Assurance projects
 
 ## American-British-Translator
 
